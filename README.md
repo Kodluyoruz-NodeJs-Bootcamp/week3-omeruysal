@@ -11,7 +11,7 @@ End points with request body :
     "email":"user@user.com",
     "password":"12345",
     "passwordConfirm":"12345"
-}
+} 
 2- POST Login : http://localhost:8080/api/login 
 {
     "email":"user@user1.com",
